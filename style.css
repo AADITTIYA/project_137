@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+}
+input{
+    margin-bottom: 10px;
+}
+.instruction{
+    background-color: rgb(80, 196, 26);
+    width: fit-content;
+}
+.heading{
+    margin-top: 0;
+    top: 0; 
+    font-size: 30px;
+    color: rgb(240, 238, 241);
+    background-color: rgb(255, 12, 52);
+}
+#button{
+    font-size: 30px;
+    height:50px;
+    color: rgba(65, 255, 255, 0.904);
+}
+
+canvas{
+    border: 5px black solid;
+    border-radius: 35px;
+    box-shadow: 20px,20px,5,goldenrod;
+}
+.footer{
+    margin-top: 30px;
+    width: 100%;
+    color: rgb(245, 241, 13);
+    background-color: rgb(4, 15, 14);
+    border: 5px black solid;
+    position:fixed;
+    bottom: 0;
+    left: 0;
+}
+
+
